@@ -1,0 +1,7 @@
+Command to run : 
+
+hadoop fs -rm -r -skipTrash /Knn/Output
+hadoop jar kmeans_mapreduce_knn.jar /Knn/Input/labelled.txt /Knn/Output /Knn/Input/test.txt 3
+
+/Knn/Input/labelled.txt needs to be present in hdfs
+/Knn/Input/test.txt needs to be present in hdfs 
