@@ -2,4 +2,5 @@
 *.idea
 out
 /src/META-INF
+/src/knn/META-INF
 /Resources/Output/*
