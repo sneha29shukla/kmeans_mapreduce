@@ -1,1 +1,1 @@
-# K-means MapReduce implementation
+# K-means and KNN MapReduce implementation
